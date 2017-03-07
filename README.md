@@ -16,3 +16,10 @@ How To Use:
 
 ![alt tag](https://raw.githubusercontent.com/yinyifu/Image-To-Unicode-Converter/master/one.png)
 ![alt tag](https://raw.githubusercontent.com/yinyifu/Image-To-Unicode-Converter/master/two.png)
+
+
+
+Written locally with a group of 3 During hackthon of 2016.
+Good Memories :)!!
+
+Me, Kevinqkh, xuanyu dong
