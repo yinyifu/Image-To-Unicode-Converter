@@ -5,6 +5,7 @@ There are two build in width for youtube and twitch.tv
 
 After the convertion you can copy and paste into the comment section.
 How To Use:
+  0. Before you can run the software, you need to install GUI library TKinter. It can be different to install on different platforms, So I suggest you to google "Install TKinter on Mac/PC/Linux" And find a tutorial that you can follow.
   1. Run the ImageToGui.py by using command:
       python3 ImageToGui.py
   2. Then After the windows pops up, select an Image from your file select button
