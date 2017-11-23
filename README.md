@@ -25,4 +25,6 @@ How To Use:
 Written locally with a group of 3 During hackthon of 2016.
 Good Memories :)!!
 
-Me, Kevinqkh, xuanyu dong
+#Contributors:
+Kevinqkh https://github.com/kevinqkh
+xuanyu dong https://github.com/xuanyudo
