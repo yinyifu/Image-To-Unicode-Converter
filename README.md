@@ -26,5 +26,5 @@ Written locally with a group of 3 During hackthon of 2016.
 Good Memories :)!!
 
 #Contributors:
-Kevinqkh https://github.com/kevinqkh
+Kevinh091 https://github.com/kevinh091
 xuanyu dong https://github.com/xuanyudo
