@@ -222,7 +222,6 @@ if __name__=='__main__':
 
     frame_32 = Frame(blank2)
     frame_32.grid(column = 1)
-    global label
     label = Label(frame_31, text="No Image Chosen")
     label.pack(side=LEFT)
     global label2
